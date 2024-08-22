@@ -3,7 +3,6 @@ import "./styles.css";
 import Header from "./components/Headers";
 import Section from "./components/Sections";
 import ListItem from "./components/ListItens";
-import SocialItem from "./components/SocialItens";
 
 const gameListData = [
     {
